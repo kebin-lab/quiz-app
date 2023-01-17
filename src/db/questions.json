@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "qustion": "りんごの生産量日本一の都道府県はどこ？",
+      "choises": ["青森", "岩手", "秋田"],
+      "answer": "青森",
+      "hasImage": false
+    },
+    {
+      "id": 2,
+      "qustion": "桃太郎で有名な県は？",
+      "choises": ["広島", "岡山", "山口"],
+      "answer": "岡山",
+      "hasImage": false
+    },
+    {
+      "id": 3,
+      "qustion": "東海オンエアで有名な県は？",
+      "choises": ["愛知", "静岡", "京都"],
+      "answer": "愛知",
+      "hasImage": false
+    }
+  ]
+}
